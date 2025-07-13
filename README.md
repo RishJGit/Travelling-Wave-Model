@@ -1,2 +1,2 @@
 # Travelling-Wave-Model
-This repository contains interations of a Travelling Wave Model that was developed over the course of 12 weeks to Implement a Semiconductor Laser In a Waveguide using MATLAB
+This repository contains several iterations of a MATLAB simulation of a semiconductor laser in a grating-based waveguide, modeled using the Traveling Wave Model and Finite Difference methods.
